@@ -43,7 +43,8 @@ A planilha permite calcular:
 ### Entrada de Dados  
 ![/desafio-01-simulador-fii](./imagens/entrada.png)
 
-### Simulação Mensal
+
+### Simulação Mensal:
 ![/desafio-01-simulador-fii](./imagens/simulacao.png)
 
 ### Gráficos
