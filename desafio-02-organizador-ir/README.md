@@ -95,28 +95,28 @@ A aba **Resumo** utiliza nomes definidos para facilitar a leitura das fórmulas:
 Abaixo estão exemplos das abas principais do organizador de imposto de renda:
 
 ### Titular
-![Tela Titular](/images/titular.jpg)
+![Tela Titular](./images/titular.jpg)
 
 ### Dependentes
-![Tela Dependentes](/images/dependentes.jpg)
+![Tela Dependentes](./images/dependentes.jpg)
 
 ### Alimentando
-![Tela Alimentando](/images/alimentando.jpg)
+![Tela Alimentando](./images/alimentando.jpg)
 
 ### Rendimentos
-![Tela Rendimentos](/images/rendimentos.jpg)
+![Tela Rendimentos](./images/rendimentos.jpg)
 
 ### Pagamentos Efetuados
-![Tela Pagamentos](/images/pagamentos.jpg)
+![Tela Pagamentos](./images/pagamentos.jpg)
 
 ### Bens e Direitos
-![Tela Bens e Direitos](/images/bens-direitos.jpg)
+![Tela Bens e Direitos](./images/bens-direitos.jpg)
 
 ### Dívidas e Ônus
-![Tela Dívidas e Ônus](/images/dividas-onus.jpg)
+![Tela Dívidas e Ônus](./images/dividas-onus.jpg)
 
 ### Resumo Consolidado
-![Tela Resumo](/images/resumo.jpg)
+![Tela Resumo](./images/resumo.jpg)
 
 ## ⚠️ Observações Importantes
 - **Compatibilidade** : Recomendado o uso no Microsoft Excel 2019 ou superior.
