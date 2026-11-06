@@ -41,13 +41,13 @@ A planilha permite calcular:
 ## 📸 Capturas de tela
 
 ### Entrada de Dados  
-![Tela Rendimentos](/imagens/entrada.png)
+![/desafio-01-simulador-fii](./imagens/entrada.png)
 
 ### Simulação Mensal
-![Tela Rendimentos](/imagens/simulacao.png)
+![/desafio-01-simulador-fii](./imagens/simulacao.png)
 
 ### Gráficos
-![Tela Rendimentos](/imagens/graficos.png)
+![/desafio-01-simulador-fii](./imagens/graficos.png)
 
 ## 🛠️ Como usar
 1.	Abra a planilha **Proj SIL.xlsx**.
