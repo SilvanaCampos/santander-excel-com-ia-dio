@@ -1,30 +1,3 @@
-# Santander - Excel com Inteligência Artificial (DIO)
-Projetos desenvolvidos durante o curso Santander - Excel com Inteligência Artificial da DIO.
-
-## Desafios
-
-### 📈 Desafio 01 - Simulador de Investimentos em FIIs
-
-Ferramenta para projeção de investimentos em fundos imobiliários.
-
-📂 desafio-01-simulador-investimentos
-
----
-
-### 🧾 Desafio 02 - Organizador de Imposto de Renda
-
-Ferramenta para centralização de informações da declaração de IR.
-
-📂 desafio-02-organizador-ir
-
----
-
-### 🎮 Desafio Final - Dashboard de Vendas Xbox
-
-Dashboard interativo desenvolvido em Excel.
-
-📂 desafio-final-dashboard-xbox
-
 
 # Santander - Excel com Inteligência Artificial (DIO)
 
@@ -72,8 +45,7 @@ Principais recursos:
 - Visualização de vendas
 
 ---
-## Tecnologias Utilizadas
-## Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 - Microsoft Excel
 - Fórmulas Avançadas
